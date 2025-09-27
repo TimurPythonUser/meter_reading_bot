@@ -1,0 +1,10 @@
+aiogram>=3.2.0
+python-dotenv
+Pillow
+numpy
+opencv-python
+torch
+torchvision
+ultralytics
+pandas
+openpyxl

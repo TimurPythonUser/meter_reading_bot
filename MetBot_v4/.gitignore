@@ -1,0 +1,25 @@
+# Секретные ключи
+.env
+
+# Папки Python
+__pycache__/
+venv/
+*.pyc
+
+# Папки с данными, которые генерирует бот
+images/
+test_images/
+MBotBase.db
+meters_data.xlsx
+
+# Временные файлы от модели распознавания
+cropped_*.png
+
+# Папка с тяжелыми моделями
+models/
+
+# Системные файлы
+.DS_Store
+.vscode
+test.py
+iogram_sync_bot.py
