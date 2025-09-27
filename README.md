@@ -48,7 +48,7 @@ Follow these steps to get your own instance of the bot running.
 
 ```bash
 git clone [https://github.com/TimurPythonUser/meter_reading_bot.git](https://github.com/TimurPythonUser/meter_reading_bot.git)
-cd meter_reading_bot
+cd MetBot_v4
 ```
 
 ### 2. Create a Virtual Environment
